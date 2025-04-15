@@ -1,4 +1,5 @@
 __MACOSX/
 cats_vs_dogs/
-data
+RNN/data/
 data.zip
+CNN/data.zip
